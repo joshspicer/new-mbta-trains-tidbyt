@@ -4,7 +4,7 @@
 
 A [Tidbyt](https://tidbyt.dev) app to display the live location new cars in Boston's MBTA subway system.
 
-<img src="./mbta.webp" width="320" height="160">
+<img src="./mbta-newtrains.webp" width="320" height="160">
 <br><br>
 
 ## Thanks
